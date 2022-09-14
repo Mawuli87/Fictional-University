@@ -13,7 +13,10 @@ while(have_posts()){
         </div>
       </div>
     </div>
-
+     <!--
+the_title() allow you to output the title of the current post
+get_the_title() can recieve a parameter as argument
+-->
  
     <div class="container container--narrow page-section">
     
