@@ -1,2 +1,2 @@
 # Fictional-University-blog-archive
-This commit is about archive of blog post and author
+This commit is about archive of blog posts and authors
